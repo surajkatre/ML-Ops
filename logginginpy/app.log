@@ -1,0 +1,13 @@
+2024-08-25 21:54:39,226 - INFO - This is an info message
+2024-08-25 21:54:39,226 - WARNING - This is a warning message
+2024-08-25 21:54:39,226 - ERROR - This is an error message
+2024-08-25 21:54:39,226 - CRITICAL - This is a critical message
+2024-08-25 22:00:15,291 - DEBUG - this is a debug message
+2024-08-25 22:00:15,292 - INFO - this is an info message
+2024-08-25 22:00:15,292 - WARNING - this is a warning message
+2024-08-25 22:00:15,293 - ERROR - this is an error message
+2024-08-25 22:00:39,628 - DEBUG - this is a debug message
+2024-08-25 22:00:39,629 - INFO - this is an info message
+2024-08-25 22:00:39,629 - WARNING - this is a warning message
+2024-08-25 22:00:39,629 - ERROR - this is an error message
+2024-08-25 22:00:39,629 - CRITICAL - this is a critical message
