@@ -1,0 +1,4 @@
+2024-08-25 22:26:28,936 - DEBUG - Adding 10 + 10 to , 20 
+2024-08-25 22:26:28,936 - DEBUG - Subtracting 10 from 11 to , 1 
+2024-08-25 22:26:28,936 - DEBUG - Multiplying 10 by 10 to , 100 
+2024-08-25 22:26:28,936 - DEBUG - Dividing 10 by 2 to , 5.0 
